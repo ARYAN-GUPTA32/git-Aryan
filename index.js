@@ -10,3 +10,6 @@ function newfn(){
 function newfeatureAdd(){
     console.log('this is a new feature ')
 }   
+function newfeatureAddB(){
+    console.log('this is a new feature ')
+}   
