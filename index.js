@@ -7,3 +7,6 @@ function sayName(){
 function newfn(){
     console.log('hey i m a new function')
 }
+function newfeatureAdd(){
+    console.log('this is a new feature ')
+}
